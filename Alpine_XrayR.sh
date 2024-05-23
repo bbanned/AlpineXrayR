@@ -1,8 +1,6 @@
 #!/bin/sh
 # 更新软件源
 apk update
-# 安装依赖项
-apk add wget unzip openrc
 # 下载 XrayR
 wget https://github.com/XrayR-project/XrayR/releases/download/v0.9.1/XrayR-linux-64.zip
 # 解压缩
