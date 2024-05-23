@@ -1,5 +1,10 @@
 # Alpine的XrayR一键安装脚本
 
+```shell
+# 安装依赖项
+apk add wget unzip openrc
+```
+
 64位
 
 ```shell
